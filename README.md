@@ -24,16 +24,17 @@ Two datasets are used:
 
 ## Project Structure
 weather-data-mining/
-├── datasets/
-│ ├── weather_mining.csv
+├── data/
+│   ├── weather_mining.csv
 │
-├── Notebooks/
-│ └── Weather_mining.ipynb
+├── notebooks/
+│   └── Weather_mining.ipynb
 │
-├── Report/
-│ └── DataMining_Final_Report.pdf
+├── report/
+│   └── DataMining_Final_Report.pdf
 │
 ├── README.md
+
 
 
 ---
