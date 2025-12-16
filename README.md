@@ -21,22 +21,21 @@ Two datasets are used:
 - `weather_with_advanced_clusters.csv` – enriched dataset with clustering labels
 
 ---
-
 ## Project Structure
+
+```text
 weather-data-mining/
 ├── data/
-│   ├── weather_mining.csv
+│ └── weather_mining.csv
 │
 ├── notebooks/
-│   └── Weather_mining.ipynb
+│ └── Weather_mining.ipynb
 │
 ├── report/
-│   └── DataMining_Final_Report.pdf
+│ └── DataMining_Final_Report.pdf
 │
 ├── README.md
-
-
-
+```
 ---
 
 ## Methodology
